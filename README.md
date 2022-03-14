@@ -8,6 +8,6 @@ The user will be presented with a homepage picturing a little library. The user 
 I am planning to start with an index and option for ONE of the libraries in my neighborhood. My stretch goal would be to have a few of them with them displayed on a static map that the user is able to select from after the login page and before the index page. 
 
 
-![Homepage/Login/Index](https://imgur.com/ktrxuES)
+![Homepage/Login/Index](https://i.imgur.com/zguFz2y.jpg)
 
 ![user pages](https://imgur.com/zguFz2y)
