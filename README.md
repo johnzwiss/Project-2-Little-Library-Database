@@ -12,4 +12,4 @@ I am planning to start with an index and option for ONE of the libraries in my n
 
 ![user pages](https://i.imgur.com/zguFz2y.jpg)
 
-![ERD](https://i.imgur.com/9LAAayA.jpg)
+![ERD](https://i.imgur.com/EDCzawJ.jpg)
